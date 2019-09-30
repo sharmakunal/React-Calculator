@@ -1,0 +1,25 @@
+.button {
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #f0f0f0;
+    color:#000;
+    outline: 1px solid #888;
+  }
+  .button-dark {
+    background-color: #666;
+    color:#fff;
+  }
+  .button-light{
+    background-color: #f0f0f0;
+    color:#000;
+  }
+
+  .button-theme{
+    background-color: rgb(214, 36, 36);
+    color:#fff;
+  }
